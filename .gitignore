@@ -1,0 +1,14 @@
+# Archivos temporales de Python
+__pycache__/
+*.pyc
+
+# Entorno de Streamlit y sistema
+.streamlit/
+.DS_Store
+
+.copilot-log.lock
+*.log
+process-*.log
+
+.venv/
+venv/
